@@ -23,6 +23,8 @@ cd your-repo-name
 ### 2. Create the Database schema:
 use SQL script provided "createDBschema.sql" for creating the database schema.
 
+the DB should be configure on localhost:3306. username = root.
+
 ### 3. Build the Project:
 ```bash
 mvn clean install
