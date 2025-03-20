@@ -495,7 +495,7 @@
 					"response": []
 				},
 				{
-					"name": "update coues Copy",
+					"name": "delete course",
 					"event": [
 						{
 							"listen": "test",
@@ -526,7 +526,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8080/api/admin/courses/3",
+							"raw": "http://localhost:8080/api/admin/courses/21",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -536,7 +536,7 @@
 								"api",
 								"admin",
 								"courses",
-								"3"
+								"21"
 							]
 						}
 					},
